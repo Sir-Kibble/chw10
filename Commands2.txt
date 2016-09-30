@@ -1,0 +1,11 @@
+23 77
+0 0 screen
+6 67 disk
+3 3 folderone
+6 33 fileicon
+6 44 fileicon
+7 6 foldericon
+7 19 foldericon
+9 16 foldertwo
+13 26 fileicon
+13 41 fileicon
